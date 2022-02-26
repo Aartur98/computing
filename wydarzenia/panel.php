@@ -1,0 +1,1 @@
+<!--spis wydarzeń zarządzanych przez organizatora-->

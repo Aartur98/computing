@@ -1,0 +1,1 @@
+<!--strona główna z podstawowymi informacjami o witrynie oraz proponowanymi wydarzeniami-->

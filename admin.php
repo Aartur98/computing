@@ -1,0 +1,1 @@
+<!--panel administratora z możliwością weryfikacji kont organizatorskich-->

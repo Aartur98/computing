@@ -1,0 +1,1 @@
+<!--spis byłych i aktualnych wydarzeń zawodnika-->

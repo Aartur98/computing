@@ -1,0 +1,1 @@
+<!--szczegóły wybranego zawodnika z podglądem życiówek, dyscyplin i ostatnich wyników-->

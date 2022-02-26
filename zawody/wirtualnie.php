@@ -1,0 +1,1 @@
+<!--dodawanie wyniku przez zawodnika-->
