@@ -1,9 +1,9 @@
-<!--spis wydarzeń zarządzanych przez organizatora-->
+<!--logowanie-->
 <!DOCTYPE HTML>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Szczegóły wydarzenia</title>
+        <title>Zaloguj się</title>
     </head>
     <body>
         <header>
