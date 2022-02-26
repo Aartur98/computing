@@ -1,9 +1,9 @@
-<!--strona główna z podstawowymi informacjami o witrynie oraz proponowanymi wydarzeniami-->
+<!--logowanie-->
 <!DOCTYPE HTML>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Strona główna</title>
+        <title>Zaloguj się</title>
     </head>
     <body>
         <header>
