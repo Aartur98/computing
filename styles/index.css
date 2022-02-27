@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding:0;
+}
+header{
+    width:100%;
+}
+main{
+    width:100%;
+    min-height:75vh;
+    background-color:rgb(188, 235, 203);
+}
+#logo{
+    width:100%;
+    height:15vh;
+    line-height: 15vh;
+    text-align:center;
+    display: inline-block;
+    vertical-align: middle;
+    font-size:5vw;
+    background-color:rgb(157, 46, 190);
+    color:rgb(221, 221, 221);
+}
+.navigation{
+    float:left;
+    width:calc(16.66666% - 2px);
+    text-align:center;
+    background-color:rgba(42, 108, 170, 0.979);
+    color:rgb(221, 255, 28);
+    border: solid black 1px;
+    font-size:1vw;
+}
+#wydarzenia10{
+    width:calc(100% - 2vh);
+    overflow:hidden;
+    padding:1vh;
+}
+#wyniki10{
+    width:calc(100% - 2vh);
+    overflow:hidden;
+    padding:1vh;
+}
+.wydarzenie{
+    margin:10px;
+    width:200px;
+    height:120px;
+    float:left;
+    border: solid black 1px;
+    border-radius:5px;
+    background-color:rgb(123, 172, 216);
+    color:rgb(47, 54, 8);
+}
+.miniaturawydarzenie{
+    width:200px;
+    height:80px;;
+}
+#onas{
+    padding:1vh;
+}
+footer{
+    background-color:rgb(157, 46, 190);
+    width:calc(100% - 2vh);
+    height:calc(10vh - 2vh);
+    padding:1vh;
+    font-size:1.5vh;
+}
