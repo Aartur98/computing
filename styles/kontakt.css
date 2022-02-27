@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-image: xyz;
+    background-repeat: no-repeat;   
+}
+
+#naglowek{
+    min-height:100px; 
+    background-color:grey;
+}
+
+nav{
+    
+}
+
+.lista{
+    width: 16.66%;
+    background-color: orange;
+    float:left;
+    text-align: center;
+}
+
+a:visited{color:rgb(16, 164, 190); text-decoration:none;}
+a:hover{color:aqua; text-decoration:none;}
+a:link{color:aqua; text-decoration:none;}
+a:active{color:aqua; text-decoration:none;}
+
