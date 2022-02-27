@@ -1,9 +1,9 @@
-<!--informacje szczegółowe na temat wydarzenia-->
+<!--rejestracja nowych zawodników na zawody-->
 <!DOCTYPE HTML>
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Szczegóły wydarzenia</title>
+        <title>Rejestracja</title>
     </head>
     <body>
         <header>
